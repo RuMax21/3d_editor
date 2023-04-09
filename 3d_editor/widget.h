@@ -1,7 +1,10 @@
 #ifndef WIDGET_H
 #define WIDGET_H
 
-#include <QtOpenGLWidgets/QOpenGLWidget>
+#include <QOpenGLWidget>
+#include <QOpenGLFunctions>
+#include <QOpenGLVertexArrayObject>
+#include <QOpenGLBuffer>
 #include <QMatrix4x4>
 #include <QtOpenGL>
 
